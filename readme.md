@@ -1,2 +1,3 @@
 - [LocalStack & ESO Setup Guid](./localstack-eso-setup.md)
 - [Choosing Kubebuilder Over client-go for Our Operator](./kubebuilder_vs_client_go.md)
+- [Secret Library Integration Guide](./secret_lib_integration_guide.md)
